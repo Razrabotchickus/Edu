@@ -13,4 +13,9 @@
 - - -
 ![Лого GB](https://upload.wikimedia.org/wikipedia/ru/thumb/4/48/Geekbrains_logo.svg/2560px-Geekbrains_logo.svg.png)
 - - -
-![Локальный файл](/Logo.png)
+
+
+## Конфликт
+ 1. ~~Зачеркнутый~~
+ 2. **~~Зачеркнутый~~*
+ 3. Незачеркнутый
