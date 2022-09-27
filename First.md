@@ -14,3 +14,8 @@
 ![Лого GB](https://upload.wikimedia.org/wikipedia/ru/thumb/4/48/Geekbrains_logo.svg/2560px-Geekbrains_logo.svg.png)
 - - -
 ![Локальный файл](/Logo.png)
+
+
+# Другая инфа для конфликта
+# Вообще неважно что здесь будет
+# Ну по факту же
